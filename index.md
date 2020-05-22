@@ -2,7 +2,7 @@
 title: [First Website Title]
 description: [Website Created during Analytics Courses]
 ---
-*Emily Zazzu's Github Page*
+*Welcome to Emily Zazzu's Github Page*
 ![My Picture](/pics/headshot2.jpg)
 
 #### The projects I worked on in my course are:
