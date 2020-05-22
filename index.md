@@ -2,7 +2,7 @@
 title: [First Website Title]
 description: [Website Created during Analytics Courses]
 ---
-
+*Emily Zazzu's Github Page*
 ![My Picture](/pics/headshot2.jpg)
 
 #### The projects I worked on in my course are:
@@ -10,3 +10,6 @@ description: [Website Created during Analytics Courses]
 
 ##### Youtube link example
  [![Sorting](https://img.youtube.com/vi/-AkBfBWr_Gw/0.jpg)](http://www.youtube.com/watch?v=-AkBfBWr_Gw)
+
+#### Link to a sample repository below
+* [Sample Repository]()
