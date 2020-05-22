@@ -12,4 +12,4 @@ description: [Website Created during Analytics Courses]
  [![Sorting](https://img.youtube.com/vi/-AkBfBWr_Gw/0.jpg)](http://www.youtube.com/watch?v=-AkBfBWr_Gw)
 
 #### Link to a sample repository below
-* [Sample Repository]()
+* [Sample Repository](https://github.com/emzazzu/sample)
