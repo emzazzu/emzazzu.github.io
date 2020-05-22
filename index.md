@@ -5,7 +5,7 @@ description: [Website Created during Analytics Courses]
 *Welcome to Emily Zazzu's Github Page*
 ![My Picture](/pics/headshot2.jpg)
 
-#### The projects I worked on in my course are:
+#### The projects I worked on this week in HTML and Jupyter formats are here:
 * [Time Series Decomposition](/TimeSeries/index.md)
 
 ##### Youtube link example
