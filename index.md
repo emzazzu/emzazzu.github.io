@@ -9,5 +9,4 @@ description: [Website Created during Analytics Courses]
 * [Time Series Decomposition](/TimeSeries/index.md)
 
 ##### Youtube link example
-
-* [![Sorting](https://img.youtube.com/vi/-AkBfBWr_Gw/0.jpg)](http://www.youtube.com/watch?v=-AkBfBWr_Gw)
+ [![Sorting](https://img.youtube.com/vi/-AkBfBWr_Gw/0.jpg)](http://www.youtube.com/watch?v=-AkBfBWr_Gw)
