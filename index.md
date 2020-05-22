@@ -1,6 +1,6 @@
 ---
-title: First Title
-description: Writing first description for my website.
+title: [First Website Title]
+description: [Website Created during Analytics Courses]
 ---
 
 ![My Picture](/pics/headshot2.jpg)
